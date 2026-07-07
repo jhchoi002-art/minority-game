@@ -1,0 +1,8 @@
+v11.6 업데이트 방법
+
+1. UPDATE_ONLY_v11_6 폴더 안 파일들을 GitHub 저장소에 덮어쓰기 업로드합니다.
+2. Commit changes를 누릅니다.
+3. Vercel 자동 배포 완료 후 새로고침합니다.
+
+수정 내용:
+- participantStatusHtml is not defined 오류 수정
